@@ -1,0 +1,37 @@
+.hero-area .contents h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: #151948;
+    margin-bottom: 10px;   
+}
+.hero-area .intro-img{
+    width: 100%; /* Make the image take 100% width of its container */
+    max-width: 400px; /* Set a maximum width to avoid excessive scaling */
+    height: auto; /* Maintain the aspect ratio */
+    display: block; /* Remove default inline styles for alignment */
+    margin: 0 auto; /* Center the image horizontally */
+    margin-bottom: 20px; /* Add some bottom margin for spacing */
+}
+#technologies .feature-icon i {
+    font-size: 40px; /* Adjust the font size of the technology icons */
+    color: #4CAF50; /* Set a color for the icons */
+  }
+  
+  #technologies .feature-icon img {
+    max-width: 100%; /* Make sure the image doesn't exceed its container */
+    height: auto; /* Maintain the aspect ratio */
+  }
+  
+  #technologies .feature-info h4 {
+    font-size: 24px; /* Adjust the heading font size */
+    margin-bottom: 10px; /* Add some bottom margin for spacing */
+  }
+  
+  #technologies .feature-info p {
+    font-size: 16px; /* Adjust the paragraph font size */
+    color: #555; /* Set a color for the text */
+    line-height: 1.5; /* Set a comfortable line height */
+  }
+  
+
